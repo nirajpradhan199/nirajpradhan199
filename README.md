@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nirajpradhan199
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @niraj
+- 👀 I’m interested in learsning Coding
+- 🌱 I’m currently learning Project Managment and Coding
+- 💞️ I’m looking to collaborate on Coding and Project Management
+- 📫 How to reach me : nirajpradhan19@gmail.com
 
 <!---
 nirajpradhan199/nirajpradhan199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
